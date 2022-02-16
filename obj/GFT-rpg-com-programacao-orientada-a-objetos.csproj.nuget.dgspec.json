@@ -1,0 +1,60 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/jorge/Projects/GFT-rpg-com-programacao-orientada-a-objetos/GFT-rpg-com-programacao-orientada-a-objetos.csproj": {}
+  },
+  "projects": {
+    "/home/jorge/Projects/GFT-rpg-com-programacao-orientada-a-objetos/GFT-rpg-com-programacao-orientada-a-objetos.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/jorge/Projects/GFT-rpg-com-programacao-orientada-a-objetos/GFT-rpg-com-programacao-orientada-a-objetos.csproj",
+        "projectName": "GFT-rpg-com-programacao-orientada-a-objetos",
+        "projectPath": "/home/jorge/Projects/GFT-rpg-com-programacao-orientada-a-objetos/GFT-rpg-com-programacao-orientada-a-objetos.csproj",
+        "packagesPath": "/home/jorge/.nuget/packages/",
+        "outputPath": "/home/jorge/Projects/GFT-rpg-com-programacao-orientada-a-objetos/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/jorge/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/6.0.102/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

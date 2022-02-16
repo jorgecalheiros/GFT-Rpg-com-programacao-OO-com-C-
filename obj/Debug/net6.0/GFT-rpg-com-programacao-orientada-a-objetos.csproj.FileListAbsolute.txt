@@ -1,0 +1,15 @@
+/home/jorge/Projects/GFT-rpg-com-programacao-orientada-a-objetos/obj/Debug/net6.0/GFT-rpg-com-programacao-orientada-a-objetos.csproj.AssemblyReference.cache
+/home/jorge/Projects/GFT-rpg-com-programacao-orientada-a-objetos/obj/Debug/net6.0/GFT-rpg-com-programacao-orientada-a-objetos.GeneratedMSBuildEditorConfig.editorconfig
+/home/jorge/Projects/GFT-rpg-com-programacao-orientada-a-objetos/obj/Debug/net6.0/GFT-rpg-com-programacao-orientada-a-objetos.AssemblyInfoInputs.cache
+/home/jorge/Projects/GFT-rpg-com-programacao-orientada-a-objetos/obj/Debug/net6.0/GFT-rpg-com-programacao-orientada-a-objetos.AssemblyInfo.cs
+/home/jorge/Projects/GFT-rpg-com-programacao-orientada-a-objetos/obj/Debug/net6.0/GFT-rpg-com-programacao-orientada-a-objetos.csproj.CoreCompileInputs.cache
+/home/jorge/Projects/GFT-rpg-com-programacao-orientada-a-objetos/bin/Debug/net6.0/GFT-rpg-com-programacao-orientada-a-objetos
+/home/jorge/Projects/GFT-rpg-com-programacao-orientada-a-objetos/bin/Debug/net6.0/GFT-rpg-com-programacao-orientada-a-objetos.deps.json
+/home/jorge/Projects/GFT-rpg-com-programacao-orientada-a-objetos/bin/Debug/net6.0/GFT-rpg-com-programacao-orientada-a-objetos.runtimeconfig.json
+/home/jorge/Projects/GFT-rpg-com-programacao-orientada-a-objetos/bin/Debug/net6.0/GFT-rpg-com-programacao-orientada-a-objetos.dll
+/home/jorge/Projects/GFT-rpg-com-programacao-orientada-a-objetos/bin/Debug/net6.0/ref/GFT-rpg-com-programacao-orientada-a-objetos.dll
+/home/jorge/Projects/GFT-rpg-com-programacao-orientada-a-objetos/bin/Debug/net6.0/GFT-rpg-com-programacao-orientada-a-objetos.pdb
+/home/jorge/Projects/GFT-rpg-com-programacao-orientada-a-objetos/obj/Debug/net6.0/GFT-rpg-com-programacao-orientada-a-objetos.dll
+/home/jorge/Projects/GFT-rpg-com-programacao-orientada-a-objetos/obj/Debug/net6.0/ref/GFT-rpg-com-programacao-orientada-a-objetos.dll
+/home/jorge/Projects/GFT-rpg-com-programacao-orientada-a-objetos/obj/Debug/net6.0/GFT-rpg-com-programacao-orientada-a-objetos.pdb
+/home/jorge/Projects/GFT-rpg-com-programacao-orientada-a-objetos/obj/Debug/net6.0/GFT-rpg-com-programacao-orientada-a-objetos.genruntimeconfig.cache
